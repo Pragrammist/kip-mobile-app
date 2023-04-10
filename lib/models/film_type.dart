@@ -1,0 +1,1 @@
+enum FilmType { film, serial }
